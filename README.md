@@ -41,12 +41,6 @@ This project builds and compares machine learning models to predict whether a lo
 
 ---
 
-## 📈 Model Comparison
-
-![Confusion Matrix Comparison](confusion_matrices.png)
-
-- Logistic Regression: Higher false negatives/positives  
-- Random Forest: More accurate, especially on rejected applications
 
 ---
 
